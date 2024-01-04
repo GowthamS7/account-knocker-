@@ -102,7 +102,7 @@ class AccountChecker:
 
 if __name__ == "__main__":
     # Specify the emails directly in the code
-    email_list = ["emukoli123@gmail.com"]
+    email_list = ["your email address"]
 
     # Create an instance of AccountChecker
     account_checker = AccountChecker()
